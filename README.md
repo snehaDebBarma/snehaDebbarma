@@ -1,178 +1,134 @@
-# 🧠 Sneha Deb Barma  
-### UX Research • Product Strategy • Program & Project Leadership
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Designing%20Products%20Through%20User%20Understanding&fontSize=38&fontColor=ffffff"/>
-
-</div>
+# Sneha Deb Barma  
+## UX Research • Product Strategy • Program Leadership
 
 ---
 
-## 👋 About Me
+## Overview
 
-I am a **UX Researcher and Product-minded Program Leader** who helps teams build the *right products before building them right*.
+I work at the intersection of **user understanding, product decision-making, and execution systems**.
 
-I specialize in turning **user behavior → structured insights → product decisions → shipped outcomes**.
+My focus is simple:
 
-📍 Based in Bengaluru, India  
-🎯 Focus: Reducing product risk through research + execution clarity  
+> Reduce uncertainty in product decisions through structured research and clear execution alignment.
+
+I help teams move from:
+**assumptions → evidence → decisions → shipped outcomes**
 
 ---
 
-## 💡 What I Bring
+## Core Expertise
 
-### 🔍 UX Research
-I uncover **real user needs behind product assumptions**
-- User Interviews  
+### UX Research
+Understanding user behavior to uncover real needs behind product assumptions.
+
+- Qualitative Research (Interviews, Contextual Inquiry)  
 - Usability Testing  
 - Journey Mapping  
 - Insight Synthesis  
 
 ---
 
-### 🧭 Product Strategy
-I translate research into **clear product direction**
+### Product Strategy
+Translating research into clear product direction.
+
 - Problem Framing  
-- Opportunity Mapping  
-- Decision Support  
-- Roadmap Inputs  
+- Opportunity Definition  
+- Decision Support Inputs  
+- Product Requirement Clarity  
 
 ---
 
-### 🚀 Program & Execution
-I ensure insights become **real shipped products**
-- Cross-functional alignment  
+### Program & Execution
+Ensuring ideas are delivered with clarity and alignment.
+
+- Cross-functional coordination  
+- Roadmap alignment  
+- Dependency & risk management  
 - Delivery tracking  
-- Risk & dependency management  
-- Execution clarity  
 
 ---
 
-## 📊 Impact Summary (Outcome First)
+## Impact
 
-> I focus on outcomes, not activities.
-
-- 🔍 Reduced product uncertainty through early-stage UX validation  
-- ⚡ Improved research + reporting efficiency by **~40%**  
-- 🚀 Increased cross-team delivery speed by **~35%**  
-- 🤝 Improved stakeholder alignment using structured insights  
+- Improved product decision clarity through early-stage UX research  
+- Reduced rework by validating assumptions before development  
+- Improved delivery efficiency (~35%) through structured execution alignment  
+- Increased usability of research insights across product teams  
 
 ---
 
-## 🧪 Selected Case Studies
+## Selected Work
 
-### 1. 🧭 Reducing Product Uncertainty Before Build
+### Reducing Product Risk in Feature Development  
+Teams were building features without validated user understanding.
 
-**Problem**  
-Teams were building features without validated user understanding, leading to rework.
+I introduced structured UX research before development, including interviews and usability testing.
 
-**What I did**
-- Conducted qualitative user interviews  
-- Ran usability testing sessions  
-- Mapped behavioral insights into opportunity areas  
-
-**Impact**
-- Reduced feature rework cycles  
-- Improved product decision confidence  
-- Increased alignment between product & design teams  
+**Outcome:**
+- Reduced rework cycles  
+- Improved decision confidence for product teams  
 
 ---
 
-### 2. ⚡ Scaling UX Research Into a System
+### Scaling UX Research Operations  
+Research insights were inconsistent and not reusable.
 
-**Problem**  
-Research insights were scattered, underused, and not reusable.
+I structured research documentation and centralized insights into a reusable system.
 
-**What I did**
-- Built structured research documentation system  
-- Standardized templates for studies  
-- Created centralized insight repository  
-
-**Impact**
-- 40% faster insight turnaround  
-- Higher reuse of research across teams  
-- Improved visibility of user insights in product planning  
+**Outcome:**
+- Faster insight turnaround (~40%)  
+- Increased adoption of research across teams  
 
 ---
 
-### 3. 🚀 Improving Program Execution & Delivery Flow
+### Improving Execution Flow Across Teams  
+Cross-functional teams were facing delays due to unclear dependencies.
 
-**Problem**  
-Cross-functional teams faced delays due to unclear dependencies.
+I introduced structured program tracking and improved alignment across teams.
 
-**What I did**
-- Introduced structured program tracking system  
-- Improved sprint alignment across teams  
-- Created risk visibility checkpoints  
-
-**Impact**
-- 35% improvement in delivery speed  
-- Reduced execution ambiguity  
-- Stronger coordination between product, design, and engineering  
+**Outcome:**
+- Faster delivery cycles (~35%)  
+- Improved execution clarity and coordination  
 
 ---
 
-## 🧰 Skills & Tools
+## Tools & Methods
 
-**Research & Design**
-Figma • Miro • Notion • Confluence • Google Forms  
-
-**Product & Execution**
-Jira • Asana • Roadmapping tools • Agile workflows  
-
-**Data & Analysis**
-SQL • Python (basic analysis) • Power BI • Excel  
+Research: Interviews • Usability Testing • Surveys • Journey Mapping  
+Product: Roadmapping • Agile Systems • Stakeholder Alignment  
+Execution: Jira • Notion • Confluence • Asana  
+Analysis: SQL • Python (basic) • Excel • Power BI  
 
 ---
 
-## 🧠 How I Think
+## Thinking Approach
 
-> “Good products are not built from opinions — they are built from validated understanding.”
-
-My approach:
-
-1. Understand user behavior deeply  
+1. Understand user behavior, not just feedback  
 2. Identify assumptions early  
 3. Validate before building  
 4. Translate insights into decisions  
-5. Ensure execution is aligned  
+5. Align execution to reduce ambiguity  
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus
 
-- AI-assisted UX research workflows 🤖  
+- AI-assisted UX research workflows  
 - Scaling research operations (Research Ops)  
-- Behavioral psychology in product decisions  
-- Strategic product thinking  
-- Improving product–research alignment  
+- Behavioral design in product decisions  
+- Stronger product–research alignment systems  
 
 ---
 
-## 📈 GitHub Snapshot
+## Contact
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebbarma&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
+LinkedIn: linkedin.com/in/snehadebbarma  
+Email: snehadebbarma2@gmail.com  
+GitHub: github.com/snehadebbarma  
 
 ---
 
-## 🤝 Let’s Connect
+## Closing
 
-- 💼 LinkedIn: https://linkedin.com/in/snehadebbarma  
-- 📧 Email: snehadebbarma2@gmail.com  
-- 💻 GitHub: https://github.com/snehadebbarma  
-
----
-
-<div align="center">
-
-### ✨ I design clarity in products by turning user understanding into execution-ready decisions.
-
-<img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge"/>
-
-</div>
+Design is not visual decoration —  
+it is decision-making clarity built from understanding people.
