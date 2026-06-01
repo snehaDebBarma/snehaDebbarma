@@ -1,143 +1,149 @@
-# 🌐 UX Design Profile — Sneha Deb Barma
+# 🧠 Sneha Deb Barma — UX Research & Product Design Profile
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sneha%20Deb%20Barma&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4F86C6&center=true&vCenter=true&width=750&lines=UX+Researcher+%7C+Product+Strategist+%7C+Program+Leader;Turning+Insights+Into+Impactful+Products;Designing+with+Evidence%2C+Not+Assumptions" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UX%20Research%20%7C%20Product%20%7C%20Program%20Design&fontSize=42&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-## 🧩 PROFILE SNAPSHOT
+## 👋 Overview
 
-<div align="center">
+I am a **UX Researcher & Product-minded Program Leader** focused on understanding user behavior and translating it into **clear product direction, system thinking, and execution strategy**.
 
-| Role | Focus | Strength |
-|------|------|----------|
-| 🔍 UX Researcher | User behavior & insights | Problem discovery |
-| 🧭 Product Strategist | Roadmaps & decisions | Product clarity |
-| 🚀 Program Manager | Execution & alignment | Delivery speed |
+I sit at the intersection of:
 
-</div>
+- 🔍 User Research  
+- 🧭 Product Strategy  
+- 🚀 Program & Execution Management  
 
----
-
-## 🎯 ABOUT ME (DESIGN THINKING VIEW)
-
-### 🔍 Explore  
-Understanding user problems deeply through research  
-→ Interviews • Usability Testing • Surveys  
-
-### 🧠 Define  
-Turning complexity into clear problem statements  
-→ Insights • Patterns • Opportunity mapping  
-
-### 🚀 Deliver  
-Helping teams ship with clarity and confidence  
-→ Roadmaps • Execution • Alignment  
+My goal is simple:  
+> **Reduce uncertainty in product decisions through structured user understanding.**
 
 ---
 
-## 💥 IMPACT METRICS
+## 🎯 Design Philosophy
 
-<div align="center">
+> “A product is only as good as the understanding behind it.”
 
-<img src="https://img.shields.io/badge/Research_De--risking-High_Impact-4F86C6?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Workflow_Efficiency-+40%25-10B981?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Delivery_Velocity-+35%25-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+I believe in:
 
-</div>
-
-- Reduced product uncertainty through UX research  
-- Improved research + reporting workflows by ~40%  
-- Increased cross-team delivery speed by ~35%  
-- Improved stakeholder decision-making using insights dashboards  
+- Evidence over assumptions  
+- Systems over isolated features  
+- Clarity over speed  
+- Behavior over opinions  
 
 ---
 
-## 🧪 FEATURED CASE STUDIES
+## 🧩 What I Do (Design Lens)
 
-### 🧭 1. Reducing Product Uncertainty
+### 🔍 UX Research
+I explore **why users behave the way they do** using:
+- User Interviews  
+- Usability Testing  
+- Surveys & Behavioral Analysis  
+- Journey Mapping  
 
-**Problem:** Teams were building without validated user understanding  
-
-**What I did:**
-- UX interviews  
-- Usability testing  
-- Insight mapping  
-
-**Impact:**
-- Reduced rework cycles  
-- Improved product confidence  
+→ Output: actionable insights, not just reports
 
 ---
 
-### ⚡ 2. Scaling Research Operations
+### 🧭 Product Thinking
+I translate research into:
+- Problem definitions  
+- Opportunity areas  
+- Product requirements clarity  
+- Decision support for teams  
 
-**Problem:** Research insights were scattered and underused  
-
-**What I did:**
-- Centralized research repository  
-- Standardized templates  
-- Improved reporting workflow  
-
-**Impact:**
-- 40% faster insight generation  
-- Higher adoption of research outputs  
+→ Output: “what should we build and why”
 
 ---
 
-### 🚀 3. Improving Delivery Execution
+### 🚀 Program & Execution
+I ensure ideas actually ship by:
+- Aligning cross-functional teams  
+- Managing dependencies & timelines  
+- Tracking execution risks  
+- Improving delivery flow  
 
-**Problem:** Cross-functional delays due to misalignment  
-
-**What I did:**
-- Program tracking system  
-- Sprint alignment improvements  
-- Risk checkpoints  
-
-**Impact:**
-- 35% faster delivery  
-- Improved execution clarity  
+→ Output: “things actually get done”
 
 ---
 
-## 🧰 TOOLBOX
+## 💥 Impact Snapshot
 
-### 🔍 Research Tools
-Figma • Miro • Notion • Confluence • Google Forms  
-
-### 🧭 Product & PM Tools
-Jira • Asana • Slack • Roadmapping tools  
-
-### 📊 Data & Analysis
-SQL • Python • Power BI • Excel  
+- Improved decision clarity through structured UX research  
+- Reduced rework cycles by validating ideas early  
+- Increased delivery efficiency by ~35%  
+- Improved research adoption across product teams  
 
 ---
 
-## 🧠 DESIGN PHILOSOPHY
+## 🧪 Selected Work Themes
 
-> “Great products are built when assumptions are replaced with evidence.”
-
-- Evidence > Opinions  
-- Systems > Features  
-- Clarity > Speed  
-- Research drives decisions, not assumptions  
+### 1. Reducing Product Uncertainty
+I help teams avoid building assumptions by validating ideas through research early in the lifecycle.
 
 ---
 
-## 🎯 CURRENT FOCUS
-
-- 🤖 AI-powered UX research workflows  
-- 🧠 Behavioral psychology in product design  
-- 📊 Scaling Research Ops systems  
-- 🧭 Strategic product thinking  
+### 2. Scaling Research Systems
+I create structured research systems so insights are not lost after delivery.
 
 ---
 
-## 📈 GITHUB STATS
+### 3. Improving Execution Flow
+I improve alignment between product, design, and engineering teams for faster delivery.
+
+---
+
+## 🧰 Tools & Methods
+
+### Research
+- Interviews  
+- Usability Testing  
+- Surveys  
+- Diary Studies  
+- Journey Mapping  
+
+### Product & Execution
+- Jira  
+- Notion  
+- Confluence  
+- Roadmapping tools  
+- Agile workflows  
+
+### Data & Analysis
+- SQL  
+- Python (basic analysis)  
+- Power BI  
+- Excel  
+
+---
+
+## 🧠 How I Think
+
+I approach problems like this:
+
+1. What is the user really trying to do?  
+2. What evidence do we actually have?  
+3. Where are the assumptions hiding?  
+4. How do we reduce risk before building?  
+5. How do we make execution predictable?  
+
+---
+
+## 📌 Current Focus Areas
+
+- AI-assisted UX research workflows 🤖  
+- Scaling research ops systems  
+- Behavioral psychology in product decisions  
+- Strategic product thinking  
+- Better alignment between research & execution  
+
+---
+
+## 📈 GitHub Snapshot
 
 <div align="center">
 
@@ -148,30 +154,16 @@ SQL • Python • Power BI • Excel
 
 ---
 
-## 📬 CONNECT WITH ME
+## 🤝 Let’s Connect
 
-<div align="center">
-
-<a href="https://linkedin.com/in/snehadebbarma">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="mailto:snehadebbarma2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/snehadebbarma">
-  <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge"/>
-</a>
-
-</div>
+- LinkedIn: https://linkedin.com/in/snehadebbarma  
+- Email: snehadebbarma2@gmail.com  
+- GitHub: https://github.com/snehadebbarma  
 
 ---
 
 <div align="center">
 
-### 🚀 Designed for impact. Built with research. Driven by users.
-
-<img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge"/>
+### ✨ Designing systems that turn user understanding into shipped products
 
 </div>
