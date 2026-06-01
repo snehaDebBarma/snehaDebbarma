@@ -1,39 +1,41 @@
-## Hi there 👋
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Sneha%20Deb%20Barma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Data%20Meets%20Vision&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=200&section=header&text=Sneha%20Deb%20Barma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UX%20Researcher%20%7C%20Program%20%26%20Project%20Manager&descAlignY=55&descAlign=50"/>
 
 </div>
 
 <div align="center">
-  
-# 🌟 Product Alchemist | Turning Data Into Gold ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+Products+People+Love+%E2%9D%A4%EF%B8%8F;40%25+Faster+Through+Automation+%E2%9A%A1;Data+Driven+%7C+User+Obsessed+%F0%9F%8E%AF;3.5%2B+Years+of+Product+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F86C6&center=true&vCenter=true&random=false&width=680&lines=Designing+Experiences+People+Actually+Need+🎯;Bridging+Research%2C+Strategy+%26+Execution+🔗;Turning+User+Insights+Into+Shipped+Features+🚀;3.5%2B+Years+of+Research+%26+Program+Leadership+✨" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F59E0B&text_color=FFFFFF"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F86C6&icon_color=F59E0B&text_color=FFFFFF"/>
 
-### 🚀 Quick Intro
+### 👋 About Me
 
 ```yaml
 name: Sneha Deb Barma
 located_in: Bengaluru, India
-current_focus: Product Strategy & Data Analytics
-superpower: Transforming chaos into clarity
-fun_fact: I make dashboards people actually want to look at 📊
+roles:
+  - UX Researcher
+  - Program Manager
+  - Project Manager
+superpower: Connecting the "why" behind user behavior
+          to the "what" teams need to build
+fun_fact: I write interview guides the way others
+          write poetry — with obsessive intentionality 📝
 ```
 
-### ⚡ What I Do Best
+### 🎯 What I Bring to the Table
 
-🎯 **Product Thinking** - Solving problems users didn't know they had  
-📊 **Data Storytelling** - Making numbers speak human  
-🤖 **Smart Automation** - Why do manually what code can do better?  
-🎨 **UX Obsession** - If it's not intuitive, it's not done  
+🔍 **UX Research** — Qual & quant methods that de-risk product decisions  
+🗺️ **Program Management** — Cross-functional delivery, zero ambiguity  
+📋 **Project Management** — Scope, timelines, risks — all under control  
+📊 **Data-Informed Design** — Research repositories teams actually revisit  
+🤝 **Stakeholder Alignment** — Translating research into language leadership acts on  
 
 <br clear="right"/>
 
@@ -41,10 +43,18 @@ fun_fact: I make dashboards people actually want to look at 📊
 
 <div align="center">
 
-## 🎨 The Craft
+## 🧪 Research & Delivery Toolkit
 
 <table>
 <tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+<br><strong>Jira</strong>
+</td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br><strong>Python</strong>
@@ -54,19 +64,14 @@ fun_fact: I make dashboards people actually want to look at 📊
 <br><strong>SQL</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="48" height="48" alt="Power BI" />
 <br><strong>Power BI</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-<br><strong>Jira</strong>
-</td>
 </tr>
 </table>
+
+**Research Methods:** Usability Testing · In-depth Interviews · Contextual Inquiry · Surveys · Card Sorting · Tree Testing · Diary Studies · A/B Testing  
+**PM Tools:** Confluence · Notion · Miro · Asana · Roadmunk · Slack  
 
 </div>
 
@@ -81,19 +86,43 @@ fun_fact: I make dashboards people actually want to look at 📊
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔍_Research-De--risked_Decisions-4F86C6?style=for-the-badge&labelColor=0D1117"/>
+<br><sub>Usability studies that prevented costly missteps before launch</sub>
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/⚡_Automation-40%25_Faster-F59E0B?style=for-the-badge&labelColor=0D1117"/>
-<br><sub>Crushed manual work with smart scripts</sub>
+<br><sub>Streamlined research ops & reporting workflows</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/📊_Dashboards-Real_Time-667EEA?style=for-the-badge&labelColor=0D1117"/>
-<br><sub>Built insights leaders actually use</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🚀_Productivity-+35%25-10B981?style=for-the-badge&labelColor=0D1117"/>
-<br><sub>Workflows that just work better</sub>
+<img src="https://img.shields.io/badge/🚀_Delivery-+35%25_Velocity-10B981?style=for-the-badge&labelColor=0D1117"/>
+<br><sub>Program structures that keep teams aligned and on-track</sub>
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🌈 My Journey
+
+```mermaid
+graph LR
+    A[Data Analyst] -->|Discovered the Human Side| B[UX Researcher]
+    B -->|Led Cross-functional Programs| C[Program Manager]
+    C -->|End-to-end Delivery Ownership| D[Project Manager]
+    D -->|Currently| E[Building Research-Led Products]
+    E -->|Next| F[Your Team? 🚀]
+
+    style A fill:#4F86C6,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#F59E0B,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#10B981,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#EC4899,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#8B5CF6,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#667EEA,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
 
 ---
 
@@ -104,63 +133,51 @@ fun_fact: I make dashboards people actually want to look at 📊
 </div>
 
 ```diff
-+ 🎨 Advanced UI/UX Design Patterns
-+ 🤖 AI-Powered Product Features
-+ 📊 Predictive Analytics for Product Decisions
-+ 🧠 Behavioral Psychology in Product Design
++ 🔬 Mixed-Methods Research Frameworks at Scale
++ 🤖 AI-Augmented UX Research (LLMs for synthesis & analysis)
++ 🗺️ Strategic Roadmapping & OKR Alignment
++ 🧠 Behavioral Psychology & Decision Science in Product Design
++ 📐 Research Ops & Democratizing Insights Across Orgs
 ```
 
 ---
 
 <div align="center">
 
-## 🔥 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehadebbarma&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667EEA&line=F59E0B&point=FFFFFF" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebbarma&theme=react&hide_border=true&background=0D1117&stroke=667EEA&ring=F59E0B&fire=F59E0B&currStreakLabel=FFFFFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehadebbarma&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=FFFFFF&langs_count=6" width="49%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎪 Product Philosophy
+## 🧭 My Work Philosophy
 
 <table>
 <tr>
 <td align="center">
 
-### 🎯
-**Ship Fast**  
-Perfection is the  
-enemy of good
+### 🔍
+**Listen First**  
+The best insights  
+live in silences
 
 </td>
 <td align="center">
 
-### 💡
-**Stay Curious**  
-Question everything,  
-assume nothing
+### 🗺️
+**Clarity Over Speed**  
+Ambiguity costs more  
+than a slow start
 
 </td>
 <td align="center">
 
 ### 📊
-**Measure Twice**  
-Data doesn't lie,  
-feelings do
+**Evidence, Not Opinions**  
+Let users be  
+your north star
 
 </td>
 <td align="center">
 
 ### ❤️
-**Empathy First**  
-Build for humans,  
-not just users
+**Empathy at Scale**  
+Research that moves  
+teams, not just decks
 
 </td>
 </tr>
@@ -172,21 +189,12 @@ not just users
 
 <div align="center">
 
-## 🌈 The Journey
+## 🔥 GitHub Activity
 
-```mermaid
-graph LR
-    A[Data Analyst] -->|Learned SQL & Python| B[Freelance Consultant]
-    B -->|Built Dashboards| C[Product Manager]
-    C -->|Currently| D[Building Amazing Products]
-    D -->|Next| E[Your Team? 🚀]
-    
-    style A fill:#667EEA,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#F59E0B,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#10B981,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#EC4899,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#8B5CF6,stroke:#333,stroke-width:2px,color:#fff
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehadebbarma&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4F86C6&line=F59E0B&point=FFFFFF" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebbarma&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F86C6&ring=F59E0B&fire=F59E0B&currStreakLabel=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehadebbarma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=FFFFFF&langs_count=6" width="49%"/>
 
 </div>
 
@@ -194,22 +202,12 @@ graph LR
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 🎵 Current Status
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Vibe Check
-
-**Current Status:** Building products that don't suck 🚀  
-**Coffee Consumed Today:** ☕☕☕☕  
-**Favorite Debugging Method:** Rubber duck debugging 🦆  
-**Dream Collaboration:** With YOU! Let's create something amazing  
+**Mode:** Synthesizing research into actionable insights 🔍  
+**Coffee Level:** ☕☕☕☕  
+**Favorite Research Method:** Contextual inquiry — context is everything 🏢  
+**Dream Collaboration:** A team obsessed with getting things right, not just right now  
 
 </div>
 
@@ -217,10 +215,10 @@ graph LR
 
 <div align="center">
 
-## 📬 Let's Connect & Create
+## 📬 Let's Connect
 
 <a href="https://linkedin.com/in/snehadebbarma">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="mailto:snehadebbarma2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
@@ -231,16 +229,16 @@ graph LR
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=440&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+epic+together!+%F0%9F%9A%80;Star+⭐+my+repos+if+you+like+them!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F86C6&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+👋;Let's+build+research-led+products+together!+🚀;Good+UX+starts+with+good+questions+🔍" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=120&section=footer"/>
 
-<img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20Views&color=4f86c6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>🎨 This profile is crafted with code, coffee, and a dash of creativity</sub>
+<sub>🎨 Crafted with research rigour, program precision, and a lot of sticky notes 📝</sub>
 </div>
