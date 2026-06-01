@@ -1,149 +1,144 @@
-# 🧠 Sneha Deb Barma — UX Research & Product Design Profile
+# 🌐 Sneha Deb Barma — UX Research | Product | Program Design
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=UX%20Research%20%7C%20Product%20%7C%20Program%20Design&fontSize=42&fontColor=ffffff"/>
+<!-- HERO ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=UX%20Research%20%7C%20Product%20Strategy%20%7C%20Program%20Design&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4F86C6&center=true&vCenter=true&width=900&lines=Designing+systems+that+reduce+product+risk;Turning+user+behavior+into+product+decisions;Bridging+research+%7C+strategy+%7C+execution" />
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/UX_Research-Active-4F86C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product_Strategy-Strong-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Program_Management-Experienced-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👋 Overview
+## 🧠 DESIGN PROFILE SUMMARY
 
-I am a **UX Researcher & Product-minded Program Leader** focused on understanding user behavior and translating it into **clear product direction, system thinking, and execution strategy**.
+> I design clarity in product decisions through research, systems thinking, and execution alignment.
 
-I sit at the intersection of:
-
-- 🔍 User Research  
-- 🧭 Product Strategy  
-- 🚀 Program & Execution Management  
-
-My goal is simple:  
-> **Reduce uncertainty in product decisions through structured user understanding.**
+- 🔍 UX Researcher → Understand user behavior  
+- 🧭 Product Thinker → Define what to build  
+- 🚀 Program Leader → Ensure it gets delivered  
 
 ---
 
-## 🎯 Design Philosophy
+## 🎨 DESIGN LAYOUT (PROFILE CARDS)
 
-> “A product is only as good as the understanding behind it.”
+<div align="center">
 
-I believe in:
-
-- Evidence over assumptions  
-- Systems over isolated features  
-- Clarity over speed  
-- Behavior over opinions  
+### 🔍 UX RESEARCH
+<img src="https://img.shields.io/badge/User_Interviews-Insight_Deep_Dive-4F86C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Usability_Testing-Behavior_Analysis-4F86C6?style=for-the-badge"/>
 
 ---
 
-## 🧩 What I Do (Design Lens)
-
-### 🔍 UX Research
-I explore **why users behave the way they do** using:
-- User Interviews  
-- Usability Testing  
-- Surveys & Behavioral Analysis  
-- Journey Mapping  
-
-→ Output: actionable insights, not just reports
+### 🧭 PRODUCT STRATEGY
+<img src="https://img.shields.io/badge/Problem_Definition-Clarity_First-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Opportunity_Mapping-Insight_Driven-10B981?style=for-the-badge"/>
 
 ---
 
-### 🧭 Product Thinking
-I translate research into:
-- Problem definitions  
-- Opportunity areas  
-- Product requirements clarity  
-- Decision support for teams  
+### 🚀 PROGRAM EXECUTION
+<img src="https://img.shields.io/badge/Delivery_Management-Execution_Focus-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross_Team_Alignment-Speed_+_Clarity-F59E0B?style=for-the-badge"/>
 
-→ Output: “what should we build and why”
+</div>
 
 ---
 
-### 🚀 Program & Execution
-I ensure ideas actually ship by:
-- Aligning cross-functional teams  
-- Managing dependencies & timelines  
-- Tracking execution risks  
-- Improving delivery flow  
+## 💥 IMPACT HIGHLIGHTS (ANIMATED STYLE)
 
-→ Output: “things actually get done”
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/🔍_Research_De--risking-High_Impact-4F86C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Efficiency-+40%25_Faster_Workflow-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Delivery-+35%25_Velocity-F59E0B?style=for-the-badge"/>
 
-## 💥 Impact Snapshot
-
-- Improved decision clarity through structured UX research  
-- Reduced rework cycles by validating ideas early  
-- Increased delivery efficiency by ~35%  
-- Improved research adoption across product teams  
+</div>
 
 ---
 
-## 🧪 Selected Work Themes
+## 🧪 FEATURED WORK (CASE STUDY STYLE)
 
-### 1. Reducing Product Uncertainty
-I help teams avoid building assumptions by validating ideas through research early in the lifecycle.
+### 🧭 Case 1 — Reducing Product Uncertainty
+<img src="https://img.shields.io/badge/Status-Completed-4F86C6?style=flat-square"/>
 
----
+**Problem:** Teams built features without validated user understanding  
 
-### 2. Scaling Research Systems
-I create structured research systems so insights are not lost after delivery.
+**Approach:**
+- UX interviews  
+- Usability testing  
+- Insight mapping  
 
----
-
-### 3. Improving Execution Flow
-I improve alignment between product, design, and engineering teams for faster delivery.
-
----
-
-## 🧰 Tools & Methods
-
-### Research
-- Interviews  
-- Usability Testing  
-- Surveys  
-- Diary Studies  
-- Journey Mapping  
-
-### Product & Execution
-- Jira  
-- Notion  
-- Confluence  
-- Roadmapping tools  
-- Agile workflows  
-
-### Data & Analysis
-- SQL  
-- Python (basic analysis)  
-- Power BI  
-- Excel  
+**Impact:**
+- Reduced product rework  
+- Increased decision confidence  
 
 ---
 
-## 🧠 How I Think
+### ⚡ Case 2 — Scaling UX Research Systems
+<img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square"/>
 
-I approach problems like this:
+**Problem:** Research insights were scattered  
 
-1. What is the user really trying to do?  
-2. What evidence do we actually have?  
-3. Where are the assumptions hiding?  
-4. How do we reduce risk before building?  
-5. How do we make execution predictable?  
+**Approach:**
+- Centralized research repository  
+- Standard templates  
+- Reporting structure  
 
----
-
-## 📌 Current Focus Areas
-
-- AI-assisted UX research workflows 🤖  
-- Scaling research ops systems  
-- Behavioral psychology in product decisions  
-- Strategic product thinking  
-- Better alignment between research & execution  
+**Impact:**
+- 40% faster insights delivery  
+- Better adoption across teams  
 
 ---
 
-## 📈 GitHub Snapshot
+### 🚀 Case 3 — Execution Optimization
+<img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=flat-square"/>
+
+**Problem:** Cross-team delays  
+
+**Approach:**
+- Program tracking system  
+- Sprint alignment  
+- Risk visibility  
+
+**Impact:**
+- 35% faster delivery  
+- Improved execution clarity  
+
+---
+
+## 🧰 TOOL STACK (VISUAL GRID)
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+
+</div>
+
+---
+
+## 🧠 DESIGN PRINCIPLES
+
+> “Good UX is invisible. Great UX reduces uncertainty.”
+
+- Evidence > Opinion  
+- Systems > Features  
+- Clarity > Speed  
+- Insight > Assumption  
+
+---
+
+## 📈 GITHUB ACTIVITY (LIVE STYLE)
 
 <div align="center">
 
@@ -154,16 +149,39 @@ I approach problems like this:
 
 ---
 
-## 🤝 Let’s Connect
+## ✨ CURRENT FOCUS
 
-- LinkedIn: https://linkedin.com/in/snehadebbarma  
-- Email: snehadebbarma2@gmail.com  
-- GitHub: https://github.com/snehadebbarma  
+- 🤖 AI in UX Research  
+- 🧠 Behavioral Product Design  
+- 📊 Research Operations Scaling  
+- 🧭 Product Strategy Systems  
+
+---
+
+## 📬 CONNECT
+
+<div align="center">
+
+<a href="https://linkedin.com/in/snehadebbarma">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:snehadebbarma2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/snehadebbarma">
+<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Designing systems that turn user understanding into shipped products
+### 🚀 Designed like a product. Structured like a system. Driven by users.
+
+<img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge"/>
 
 </div>
