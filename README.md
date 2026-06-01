@@ -1,88 +1,131 @@
-# 👋 Sneha Deb Barma
+# 👋 Hey, I’m Sneha Deb Barma
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=200&section=header&text=Sneha%20Deb%20Barma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UX%20Researcher%20%7C%20Program%20Manager%20%7C%20Project%20Manager"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=220&section=header&text=UX%20Research%20%7C%20Product%20Strategy%20%7C%20Program%20Leadership&fontSize=45&fontColor=fff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F86C6&center=true&vCenter=true&width=700&lines=Turning+User+Insights+Into+Product+Decisions;Bridging+Research+%7C+Strategy+%7C+Execution;Building+research-led+and+user-first+products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4F86C6&center=true&vCenter=true&width=800&lines=Turning+User+Behavior+into+Product+Decisions;Reducing+Product+Risk+Through+Research;Building+User-First+Systems+That+Scale" />
 
 </div>
 
 ---
 
-## 👩‍💼 About Me
+## 🚀 About Me
 
-I’m a **UX Researcher + Program & Project Manager** focused on turning user understanding into shipped, impactful products.
+I’m a **UX Researcher + Product & Program Strategist** who helps teams build the *right thing before building it right*.
 
 - 📍 Based in Bengaluru, India  
-- 🔍 I uncover *why users behave the way they do*  
-- 🧭 I translate insights into clear product direction  
-- 🚀 I help teams ship faster with less ambiguity  
+- 🔍 I decode **why users behave the way they do**  
+- 🧭 I translate insights into **product direction & strategy**  
+- 🚀 I help teams ship with **clarity, speed, and confidence**
 
 ---
 
-## 💡 What I Do
+## 💥 What I Bring
 
-### 🔍 UX Research
-- User Interviews, Usability Testing, Surveys  
-- Mixed-method research design  
-- Insight synthesis & storytelling  
+<div align="center">
 
-### 🗂 Program Management
-- Cross-functional coordination  
-- Roadmaps, OKRs, stakeholder alignment  
-- Execution tracking & delivery planning  
+| 🔍 UX Research | 🧭 Product Strategy | 🚀 Program Execution |
+|----------------|---------------------|----------------------|
+| User Interviews | Roadmaps & OKRs | Cross-team Delivery |
+| Usability Testing | Decision Support | Risk Management |
+| Insight Synthesis | Opportunity Mapping | Execution Tracking |
 
-### 📊 Project Management
-- Scope, timelines, risks  
-- Agile execution support  
-- Delivery ownership  
+</div>
 
 ---
 
-## 🧰 Tools I Use
+## 📊 Impact Highlights
 
-**Design & Research**  
-Figma • Miro • Notion • Confluence  
+<div align="center">
 
-**Execution**  
-Jira • Asana • Slack • Roadmaps  
+<img src="https://img.shields.io/badge/🔍_Research-De--risked_Products-4F86C6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_Efficiency-40%25_Faster_Workflows-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🚀_Delivery-35%25_Higher_Velocity-10B981?style=for-the-badge&labelColor=0D1117"/>
 
-**Data & Analysis**  
-SQL • Python • Power BI  
+</div>
 
----
-
-## 📈 Impact Highlights
-
-- 🔍 Improved decision-making through usability research  
-- ⚡ Increased process efficiency by ~40%  
-- 🚀 Improved delivery velocity by ~35%  
-- 🤝 Strengthened alignment between product & research teams  
+- Reduced product uncertainty with structured UX research  
+- Improved research + reporting workflows by **~40%**  
+- Increased delivery speed across cross-functional teams by **~35%**  
+- Strengthened stakeholder decision-making with insights dashboards  
 
 ---
 
-## 🧠 Current Focus
+## 🧪 Case Studies
 
-- AI-assisted UX research workflows 🤖  
-- Scaling research operations  
-- Behavioral psychology in product design  
-- Strategic product roadmapping  
+### 🧭 1. De-risking Product Decisions
+**Problem:** Teams building features without validated user understanding  
 
----
+**What I did:**
+- Conducted usability testing + interviews  
+- Synthesized behavioral insights into opportunity areas  
+- Built structured insight repository  
 
-## 🧭 Philosophy
-
-> “Good products come from deeply understanding people, not assumptions.”
-
-- Listen first, design later  
-- Evidence over opinions  
-- Clarity reduces risk  
-- Empathy scales impact  
+**Impact:**
+- Reduced rework in product development  
+- Improved decision confidence across stakeholders  
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ 2. Scaling UX Research Operations
+**Problem:** Research insights were scattered and underused  
+
+**What I did:**
+- Standardized research templates  
+- Centralized insight tracking system  
+- Streamlined reporting workflows  
+
+**Impact:**
+- ~40% faster insight generation  
+- Higher adoption of research across teams  
+
+---
+
+### 🚀 3. Improving Delivery Execution
+**Problem:** Cross-functional delays due to unclear alignment  
+
+**What I did:**
+- Built structured program tracking system  
+- Improved sprint alignment  
+- Introduced risk visibility checkpoints  
+
+**Impact:**
+- ~35% improvement in delivery velocity  
+- Reduced ambiguity in execution cycles  
+
+---
+
+## 🧰 Tools & Stack
+
+**🔍 Research:** Figma • Miro • Notion • Confluence  
+**🧭 Execution:** Jira • Asana • Slack • Roadmaps  
+**📊 Data:** SQL • Python • Power BI  
+**🧠 Methods:** Usability Testing • Interviews • Surveys • Journey Mapping  
+
+---
+
+## 🧠 How I Think
+
+> “Great products are built when assumptions are replaced with evidence.”
+
+- Evidence > Opinions  
+- Systems > Features  
+- Clarity > Speed  
+- Insight should drive decisions, not decorate decks  
+
+---
+
+## 🎯 Currently Exploring
+
+- 🤖 AI-powered UX research workflows  
+- 🧠 Behavioral science in product design  
+- 📊 Scaling research operations (Research Ops)  
+- 🧭 Strategic product thinking & roadmapping  
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -93,7 +136,7 @@ SQL • Python • Power BI
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let’s Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/snehadebbarma  
 - 📧 Email: snehadebbarma2@gmail.com  
@@ -103,8 +146,8 @@ SQL • Python • Power BI
 
 <div align="center">
 
-### 🚀 Let’s build research-driven products together
+### 🚀 Let’s build products users actually need
 
-<img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge"/>
 
 </div>
