@@ -1,164 +1,181 @@
-# 🌐 Sneha Deb Barma — UX Research | Product | Program Design
+# ✦ SNEHA DEB BARMA  
+## UX Research • Product Strategy • Program Design
 
 <div align="center">
 
-<!-- HERO ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=UX%20Research%20%7C%20Product%20Strategy%20%7C%20Program%20Design&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Designing%20Clarity%20from%20Chaos&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=4F86C6&center=true&vCenter=true&width=900&lines=Designing+systems+that+reduce+product+risk;Turning+user+behavior+into+product+decisions;Bridging+research+%7C+strategy+%7C+execution" />
-
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/UX_Research-Active-4F86C6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product_Strategy-Strong-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Program_Management-Experienced-F59E0B?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=900&color=4F86C6&center=true&vCenter=true&width=900&lines=I+turn+user+behavior+into+product+decisions;I+reduce+uncertainty+before+build;I+align+teams+around+what+actually+matters" />
 
 </div>
 
 ---
 
-## 🧠 DESIGN PROFILE SUMMARY
-
-> I design clarity in product decisions through research, systems thinking, and execution alignment.
-
-- 🔍 UX Researcher → Understand user behavior  
-- 🧭 Product Thinker → Define what to build  
-- 🚀 Program Leader → Ensure it gets delivered  
-
----
-
-## 🎨 DESIGN LAYOUT (PROFILE CARDS)
+# 🧠 DESIGN PHILOSOPHY
 
 <div align="center">
 
-### 🔍 UX RESEARCH
-<img src="https://img.shields.io/badge/User_Interviews-Insight_Deep_Dive-4F86C6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Usability_Testing-Behavior_Analysis-4F86C6?style=for-the-badge"/>
+> **“Great products are not designed. They are discovered through understanding.”**
 
----
+</div>
 
-### 🧭 PRODUCT STRATEGY
-<img src="https://img.shields.io/badge/Problem_Definition-Clarity_First-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Opportunity_Mapping-Insight_Driven-10B981?style=for-the-badge"/>
+<div align="center">
 
----
-
-### 🚀 PROGRAM EXECUTION
-<img src="https://img.shields.io/badge/Delivery_Management-Execution_Focus-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cross_Team_Alignment-Speed_+_Clarity-F59E0B?style=for-the-badge"/>
+| PRINCIPLE | BELIEF |
+|----------|--------|
+| 🔍 Evidence | Decisions must be backed by real users |
+| 🧭 Systems | Products are ecosystems, not features |
+| 🚀 Clarity | Ambiguity is the biggest product risk |
+| 🤝 Alignment | Execution fails without shared understanding |
 
 </div>
 
 ---
 
-## 💥 IMPACT HIGHLIGHTS (ANIMATED STYLE)
+# 🧩 WHAT I DO
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🔍_Research_De--risking-High_Impact-4F86C6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_Efficiency-+40%25_Faster_Workflow-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Delivery-+35%25_Velocity-F59E0B?style=for-the-badge"/>
+## 🔍 UX RESEARCH
+<img src="https://img.shields.io/badge/User%20Behavior-Deep%20Understanding-4F86C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Methods-Interviews%20%7C%20Testing%20%7C%20Surveys-4F86C6?style=for-the-badge"/>
+
+I uncover **why users behave the way they do** and convert it into actionable insight.
+
+---
+
+## 🧭 PRODUCT STRATEGY
+<img src="https://img.shields.io/badge/Decision%20Making-Insight%20Driven-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Output-Problem%20Definition%20%7C%20Roadmaps-10B981?style=for-the-badge"/>
+
+I translate research into **what should be built and why it matters**.
+
+---
+
+## 🚀 PROGRAM LEADERSHIP
+<img src="https://img.shields.io/badge/Execution-Cross%20Team%20Alignment-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Speed%20%2B%20Clarity-F59E0B?style=for-the-badge"/>
+
+I ensure ideas don’t stay ideas — they become shipped products.
 
 </div>
 
 ---
 
-## 🧪 FEATURED WORK (CASE STUDY STYLE)
-
-### 🧭 Case 1 — Reducing Product Uncertainty
-<img src="https://img.shields.io/badge/Status-Completed-4F86C6?style=flat-square"/>
-
-**Problem:** Teams built features without validated user understanding  
-
-**Approach:**
-- UX interviews  
-- Usability testing  
-- Insight mapping  
-
-**Impact:**
-- Reduced product rework  
-- Increased decision confidence  
-
----
-
-### ⚡ Case 2 — Scaling UX Research Systems
-<img src="https://img.shields.io/badge/Status-Completed-10B981?style=flat-square"/>
-
-**Problem:** Research insights were scattered  
-
-**Approach:**
-- Centralized research repository  
-- Standard templates  
-- Reporting structure  
-
-**Impact:**
-- 40% faster insights delivery  
-- Better adoption across teams  
-
----
-
-### 🚀 Case 3 — Execution Optimization
-<img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=flat-square"/>
-
-**Problem:** Cross-team delays  
-
-**Approach:**
-- Program tracking system  
-- Sprint alignment  
-- Risk visibility  
-
-**Impact:**
-- 35% faster delivery  
-- Improved execution clarity  
-
----
-
-## 🧰 TOOL STACK (VISUAL GRID)
+# 💥 IMPACT SNAPSHOT
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+### ✦ Outcome-driven design impact
+
+<img src="https://img.shields.io/badge/🔍_Reduced_Product_Risk-Through_Research-4F86C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Workflow_Efficiency-+40%25-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Delivery_Speed-+35%25-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧠 DESIGN PRINCIPLES
-
-> “Good UX is invisible. Great UX reduces uncertainty.”
-
-- Evidence > Opinion  
-- Systems > Features  
-- Clarity > Speed  
-- Insight > Assumption  
+# 🧪 FEATURED CASE STUDIES (DESIGN THINKING STYLE)
 
 ---
 
-## 📈 GITHUB ACTIVITY (LIVE STYLE)
+## 🧭 CASE STUDY 01 — REDUCING PRODUCT UNCERTAINTY
+
+**Problem**
+> Teams were building features without validated user understanding
+
+**Approach**
+- Conducted in-depth user interviews  
+- Ran usability testing sessions  
+- Mapped behavioral patterns into insights  
+
+**Result**
+- Reduced rework in product development  
+- Improved product decision confidence  
+
+---
+
+## ⚡ CASE STUDY 02 — SCALING RESEARCH SYSTEMS
+
+**Problem**
+> Insights were fragmented and not reused
+
+**Approach**
+- Built centralized research repository  
+- Standardized insight documentation  
+- Improved reporting workflow  
+
+**Result**
+- ~40% faster insight generation  
+- Increased research adoption across teams  
+
+---
+
+## 🚀 CASE STUDY 03 — EXECUTION OPTIMIZATION
+
+**Problem**
+> Cross-functional delays due to misalignment
+
+**Approach**
+- Introduced program tracking system  
+- Improved sprint-level alignment  
+- Added risk visibility checkpoints  
+
+**Result**
+- ~35% improvement in delivery speed  
+- Stronger execution clarity  
+
+---
+
+# 🧰 DESIGN TOOLKIT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebbarma&theme=tokyonight&hide_border=true" width="48%"/>
+### 🔍 Research
+Figma • Miro • Notion • Confluence • Google Forms  
+
+### 🧭 Product
+Jira • Roadmaps • Agile Systems • Stakeholder Mapping  
+
+### 📊 Data
+SQL • Python (basic analysis) • Power BI • Excel  
 
 </div>
 
 ---
 
-## ✨ CURRENT FOCUS
+# 🧠 HOW I THINK
 
-- 🤖 AI in UX Research  
-- 🧠 Behavioral Product Design  
-- 📊 Research Operations Scaling  
-- 🧭 Product Strategy Systems  
+<div align="center">
+
+### A mental model for product decisions
+
+</div>
 
 ---
 
-## 📬 CONNECT
+# 📌 CURRENT FOCUS
+
+- 🤖 AI-assisted UX research systems  
+- 🧠 Behavioral science in product design  
+- 📊 Scaling Research Ops  
+- 🧭 Product strategy systems  
+
+---
+
+# 📈 LIVE GITHUB SNAPSHOT
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehadebbarma&theme=tokyonight&hide_border=true" width="47%"/>
+
+</div>
+
+---
+
+# 🤝 LET’S CONNECT
 
 <div align="center">
 
@@ -180,7 +197,7 @@
 
 <div align="center">
 
-### 🚀 Designed like a product. Structured like a system. Driven by users.
+### ✦ Designed with research thinking. Structured like a product. Built for impact.
 
 <img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=for-the-badge"/>
 
