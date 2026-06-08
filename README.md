@@ -1,163 +1,189 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=200&section=header&text=Sneha%20Deb%20Barma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UX%20Researcher%20%7C%20Bengaluru,%20India&descAlignY=55&descAlign=50"/>
-
-</div>
+<!-- ════════════════════════════════════════════════════════════════
+     SNEHA DEB BARMA · UX RESEARCHER · GitHub Profile README
+     ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F86C6&center=true&vCenter=true&random=false&width=700&lines=Designing+experiences+people+actually+need;Turning+user+insights+into+shipped+features;Bridging+research%2C+strategy+%26+delivery" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,2,6,0&height=210&section=header&text=Sneha%20Deb%20Barma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UX%20Researcher%20·%20Bengaluru,%20India&descSize=20&descAlignY=60"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=720&lines=Turning+messy+user+behavior+into+decisions+teams+act+on;End-to-end+research+%E2%80%94+from+study+design+to+the+readout;Good+UX+starts+with+good+questions" alt="tagline" />
+
+<br/><br/>
+
+<a href="https://snehadebbarma.vercel.app">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20VIEW%20MY%20PORTFOLIO-snehadebbarma.vercel.app-6366F1?style=for-the-badge&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/snehadebbarma">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="mailto:snehadebbarma2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
 
 </div>
+
+<br/>
+
+<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
+
+> **UX Researcher** running end-to-end generative & evaluative studies for digital products —
+> from study design and recruitment through moderation, synthesis, and the stakeholder readout
+> that actually ships changes. I care most about the path from **evidence to decision.**
 
 <div align="center">
 
-### 🌐 [**View My Portfolio → snehadebbarma.vercel.app**](https://snehadebbarma.vercel.app)
-*End-to-end UX research, with a full case study you can read in 5 minutes.*
+`🔍 Mixed Methods` &nbsp; `🗺️ Research Ops` &nbsp; `📊 Behavioral Analysis` &nbsp; `🤝 Stakeholder Alignment`
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+<!-- ─────────────────────────── FEATURED WORK ─────────────────────────── -->
 
-```yaml
-name: Sneha Deb Barma
-located_in: Bengaluru, India
-role: UX Researcher
-background: Data Analyst → Program/Project Coordination → UX Research
-focus:
-  - End-to-end generative & evaluative research
-  - Mixed methods (qual + quant)
-  - Turning insights into decisions teams act on
-fun_fact: I write interview guides the way others write poetry —
-          with obsessive intentionality 📝
-```
-
-### 🎯 What I Bring to the Table
-
-🔍 **UX Research** — Qual & quant methods that de-risk product decisions  
-🗺️ **Research Operations** — Studies run end-to-end: design → recruit → moderate → synthesise  
-📊 **Data-Informed Insight** — Behavioral & funnel analysis paired with user voice  
-🧩 **Insight Synthesis** — Repositories and journey maps teams actually revisit  
-🤝 **Stakeholder Alignment** — Translating research into language leadership acts on  
-
----
-
-<div align="center">
-
-## 🧪 Research & Delivery Toolkit
-
-</div>
-
-**Research methods:** In-depth Interviews · Usability Testing · Contextual Inquiry · Surveys · Concept & Prototype Testing · Heuristic Evaluation · Card Sorting · Diary Studies  
-
-**Synthesis & analysis:** Affinity Mapping · Personas · Journey Mapping · Funnel & Behavioral Analysis · Thematic Coding  
-
-**Tools:** Figma · FigJam · Miro · Notion · Jira · Confluence · Excel / Google Sheets · SQL *(learning)* · Python *(learning)*  
-
----
-
-<div align="center">
-
-## ✨ What I Care About in Research
-
-</div>
+## &nbsp;🧭&nbsp; Featured Work
 
 <table>
 <tr>
-<td align="center" width="33%">
-<strong>🔍 Listen first</strong>
-<br><sub>The best insights live in the silences</sub>
+<td width="62%" valign="top">
+
+### 🚉 &nbsp;Why buying a metro ticket still stresses Bangalore commuters
+**Self-initiated · mixed methods · in progress**
+
+A study born from a daily frustration. I paired **field observation** at stations with
+**commuter interviews** and a **survey** to find where ticketing breaks down — then shaped
+the findings into design directions I'm testing next.
+
+`Field Observation` · `Interviews` · `Survey` · `Usability (next)`
+
+#### 👉 [**Read the full case study →**](https://snehadebbarma.vercel.app)
+
 </td>
-<td align="center" width="33%">
-<strong>📊 Evidence, not opinions</strong>
-<br><sub>Let users be the north star</sub>
-</td>
-<td align="center" width="33%">
-<strong>🚀 Insight → action</strong>
-<br><sub>Research that ships changes, not just decks</sub>
+<td width="38%" valign="top">
+
+<br/>
+
+```text
+ROUND 1 SNAPSHOT
+────────────────
+ 7   commuter interviews
+52   survey responses
+ 3   stations observed
+ 4   emerging themes
+────────────────
+ Round 2: prototype
+ + usability testing
+```
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<!-- ─────────────────────────── TOOLKIT ─────────────────────────── -->
 
-## 🌈 My Journey
+## &nbsp;🧪&nbsp; Research Toolkit
+
+**Generative**  
+![Interviews](https://img.shields.io/badge/User_Interviews-6366F1?style=flat-square&labelColor=0D1117)
+![Contextual Inquiry](https://img.shields.io/badge/Contextual_Inquiry-6366F1?style=flat-square&labelColor=0D1117)
+![Diary Studies](https://img.shields.io/badge/Diary_Studies-6366F1?style=flat-square&labelColor=0D1117)
+![Concept Testing](https://img.shields.io/badge/Concept_Testing-6366F1?style=flat-square&labelColor=0D1117)
+
+**Evaluative**  
+![Usability Testing](https://img.shields.io/badge/Usability_Testing-10B981?style=flat-square&labelColor=0D1117)
+![Prototype Testing](https://img.shields.io/badge/Prototype_Testing-10B981?style=flat-square&labelColor=0D1117)
+![Heuristic Eval](https://img.shields.io/badge/Heuristic_Evaluation-10B981?style=flat-square&labelColor=0D1117)
+![Card Sorting](https://img.shields.io/badge/Card_Sorting-10B981?style=flat-square&labelColor=0D1117)
+
+**Synthesis & Quant**  
+![Affinity Mapping](https://img.shields.io/badge/Affinity_Mapping-F59E0B?style=flat-square&labelColor=0D1117)
+![Personas](https://img.shields.io/badge/Personas-F59E0B?style=flat-square&labelColor=0D1117)
+![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-F59E0B?style=flat-square&labelColor=0D1117)
+![Survey Design](https://img.shields.io/badge/Survey_Design-F59E0B?style=flat-square&labelColor=0D1117)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-F59E0B?style=flat-square&labelColor=0D1117)
+
+**Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117)
+![FigJam](https://img.shields.io/badge/FigJam-FF7262?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black&labelColor=0D1117)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&labelColor=0D1117)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white&labelColor=0D1117)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white&labelColor=0D1117)
+![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
+
+<br/>
+
+<!-- ─────────────────────────── PHILOSOPHY ─────────────────────────── -->
+
+## &nbsp;🧠&nbsp; How I Work
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>🔍</h3><b>Method follows<br/>the question</b><br/><sub>The lightest method that can answer it credibly</sub></td>
+<td align="center" width="25%"><h3>🧾</h3><b>Rigor you<br/>can audit</b><br/><sub>Every finding traces back to its evidence</sub></td>
+<td align="center" width="25%"><h3>🤝</h3><b>Built with<br/>the team</b><br/><sub>Shared conviction turns insight into action</sub></td>
+<td align="center" width="25%"><h3>🚀</h3><b>Evidence,<br/>not opinions</b><br/><sub>Research that ships changes, not just decks</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────── JOURNEY ─────────────────────────── -->
+
+## &nbsp;🛤️&nbsp; The Path Here
 
 ```mermaid
 graph LR
-    A[Data Analyst] -->|Discovered the human side| B[UX Researcher]
-    B -->|Ran cross-functional studies| C[Program / Project Coordination]
-    C -->|Back to my craft| D[UX Research, end-to-end]
-    D -->|Next| E[Your team? 🚀]
+    A([Data Analyst]) --> B([UX Researcher])
+    B --> C([Program / Project<br/>Coordination])
+    C --> D([UX Research,<br/>end-to-end])
+    D --> E([Your team?])
 
-    style A fill:#4F86C6,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#F59E0B,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#10B981,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#8B5CF6,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#667EEA,stroke:#333,stroke-width:2px,color:#fff
+    style A fill:#1F2937,stroke:#4F86C6,stroke-width:2px,color:#fff
+    style B fill:#1F2937,stroke:#F59E0B,stroke-width:2px,color:#fff
+    style C fill:#1F2937,stroke:#10B981,stroke-width:2px,color:#fff
+    style D fill:#1F2937,stroke:#8B5CF6,stroke-width:2px,color:#fff
+    style E fill:#6366F1,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-</div>
+<br/>
 
----
+<!-- ─────────────────────────── EXPLORING ─────────────────────────── -->
 
-<div align="center">
-
-## 🔬 Currently Exploring
-
-</div>
+## &nbsp;🔬&nbsp; Currently Exploring
 
 ```diff
-+ Mixed-methods research frameworks
-+ AI-augmented UX research (LLMs for synthesis & analysis)
-+ Research ops & democratizing insights across teams
-+ Behavioral psychology & decision science in product design
++ AI-augmented UX research — using LLMs for synthesis & analysis
++ Mixed-methods frameworks that scale beyond a single study
++ Research ops — democratizing insights across a team
++ Behavioral science & decision-making in product design
 ```
 
----
+<br/>
+
+<!-- ─────────────────────────── FOOTER ─────────────────────────── -->
 
 <div align="center">
 
-## 🧭 Featured Work
+### &nbsp;📬&nbsp; Let's build research-led products together
 
-**🚉 Self-initiated study — Bangalore transit ticketing**  
-Why buying a metro ticket still stresses commuters: field observation, interviews, a survey,
-and the design directions I'm testing next.
+<a href="https://snehadebbarma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/snehadebbarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:snehadebbarma2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/snehadebbarma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
-### 👉 [Read the full case study](https://snehadebbarma.vercel.app)
+<br/><br/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,2,6,0&height=120&section=footer"/>
 
-<div align="center">
+<sub>🎨 Crafted with research rigour and a lot of sticky notes</sub>
 
-## 📬 Let's Connect
-
-<a href="https://snehadebbarma.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-4F86C6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://linkedin.com/in/snehadebbarma">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="mailto:snehadebbarma2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F86C6&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Good+UX+starts+with+good+questions+%F0%9F%94%8D" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=120&section=footer"/>
-
-<img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20Views&color=4f86c6&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
-<div align="center">
-<sub>🎨 Crafted with research rigour and a lot of sticky notes 📝</sub>
 </div>
