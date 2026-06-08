@@ -1,5 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════
-     SNEHA DEB BARMA · UX RESEARCHER · GitHub Profile README
+     SNEHA DEB BARMA · UX RESEARCHER · GitHub Profile (About / Résumé)
      ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -12,17 +12,10 @@
 
 <br/><br/>
 
-<a href="https://snehadebbarma.vercel.app">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20VIEW%20MY%20PORTFOLIO-snehadebbarma.vercel.app-6366F1?style=for-the-badge&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/snehadebbarma">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="mailto:snehadebbarma2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-</a>
+<a href="https://snehadebbarma.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-snehadebbarma.vercel.app-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/snehadebbarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:snehadebbarma2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/badge/Bengaluru,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
@@ -30,9 +23,12 @@
 
 <!-- ─────────────────────────── ABOUT ─────────────────────────── -->
 
-> **UX Researcher** running end-to-end generative & evaluative studies for digital products —
-> from study design and recruitment through moderation, synthesis, and the stakeholder readout
-> that actually ships changes. I care most about the path from **evidence to decision.**
+## &nbsp;👋&nbsp; About Me
+
+> I'm a **UX Researcher** who runs end-to-end generative and evaluative studies for digital products —
+> from study design and recruitment through moderation, synthesis, and the stakeholder readout that
+> actually ships changes. I started in data, fell for the human side of the numbers, and now spend my
+> days turning **user behavior into decisions teams can act on.**
 
 <div align="center">
 
@@ -42,41 +38,84 @@
 
 <br/>
 
-<!-- ─────────────────────────── FEATURED WORK ─────────────────────────── -->
+<!-- ─────────────────────────── EXPERIENCE ─────────────────────────── -->
 
-## &nbsp;🧭&nbsp; Featured Work
+## &nbsp;💼&nbsp; Experience
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="26%" valign="top">
 
-### 🚉 &nbsp;Why buying a metro ticket still stresses Bangalore commuters
-**Self-initiated · mixed methods · in progress**
+`Dec 2025 — Present`
 
-A study born from a daily frustration. I paired **field observation** at stations with
-**commuter interviews** and a **survey** to find where ticketing breaks down — then shaped
-the findings into design directions I'm testing next.
-
-`Field Observation` · `Interviews` · `Survey` · `Usability (next)`
-
-#### 👉 [**Read the full case study →**](https://snehadebbarma.vercel.app)
+**Ancile Digital LLP**
+<br/><sub>UX Research Operations Specialist</sub>
 
 </td>
-<td width="38%" valign="top">
+<td width="74%" valign="top">
 
-<br/>
+- Run generative & evaluative research — interviews, surveys, usability testing — to surface usability issues and unmet needs.
+- Own studies end-to-end: research design, recruitment, moderation, analysis, and reporting.
+- Synthesise qual + quant insights and maintain structured insight repositories.
+- Partner with PMs and designers to turn findings into shipped improvements.
 
-```text
-ROUND 1 SNAPSHOT
-────────────────
- 7   commuter interviews
-52   survey responses
- 3   stations observed
- 4   emerging themes
-────────────────
- Round 2: prototype
- + usability testing
-```
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="26%" valign="top">
+
+`Oct 2024 — Jul 2025`
+
+**Vaultprop Technologies**
+<br/><sub>Product / Program Coordinator</sub>
+
+</td>
+<td width="74%" valign="top">
+
+- Supported product discovery via exploratory research and early-stage concept validation.
+- Aligned research insights with product requirements and feature prioritisation.
+- Assisted usability testing and built dashboards to track product metrics.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="26%" valign="top">
+
+`Jul 2022 — Aug 2023`
+
+**CareerCarve**
+<br/><sub>Data Analyst</sub>
+
+</td>
+<td width="74%" valign="top">
+
+- Analysed user behavior and engagement to find patterns, drop-offs, and optimisation opportunities.
+- Combined quantitative analysis with qualitative insight to support product decisions.
+- Built dashboards that communicated key behavioral insights to internal teams.
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="26%" valign="top">
+
+`Feb 2022 — Jun 2022`
+
+**AxisRooms**
+<br/><sub>Operations Executive</sub>
+
+</td>
+<td width="74%" valign="top">
+
+- Managed operational workflows and documentation while supporting cross-team coordination.
 
 </td>
 </tr>
@@ -84,28 +123,28 @@ ROUND 1 SNAPSHOT
 
 <br/>
 
-<!-- ─────────────────────────── TOOLKIT ─────────────────────────── -->
+<!-- ─────────────────────────── SKILLS ─────────────────────────── -->
 
-## &nbsp;🧪&nbsp; Research Toolkit
+## &nbsp;🧪&nbsp; Skills
 
-**Generative**  
-![Interviews](https://img.shields.io/badge/User_Interviews-6366F1?style=flat-square&labelColor=0D1117)
+**Generative Research**  
+![User Interviews](https://img.shields.io/badge/User_Interviews-6366F1?style=flat-square&labelColor=0D1117)
 ![Contextual Inquiry](https://img.shields.io/badge/Contextual_Inquiry-6366F1?style=flat-square&labelColor=0D1117)
-![Diary Studies](https://img.shields.io/badge/Diary_Studies-6366F1?style=flat-square&labelColor=0D1117)
+![Persona Development](https://img.shields.io/badge/Persona_Development-6366F1?style=flat-square&labelColor=0D1117)
+![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-6366F1?style=flat-square&labelColor=0D1117)
 ![Concept Testing](https://img.shields.io/badge/Concept_Testing-6366F1?style=flat-square&labelColor=0D1117)
 
-**Evaluative**  
+**Evaluative Research**  
 ![Usability Testing](https://img.shields.io/badge/Usability_Testing-10B981?style=flat-square&labelColor=0D1117)
 ![Prototype Testing](https://img.shields.io/badge/Prototype_Testing-10B981?style=flat-square&labelColor=0D1117)
-![Heuristic Eval](https://img.shields.io/badge/Heuristic_Evaluation-10B981?style=flat-square&labelColor=0D1117)
-![Card Sorting](https://img.shields.io/badge/Card_Sorting-10B981?style=flat-square&labelColor=0D1117)
+![Heuristic Evaluation](https://img.shields.io/badge/Heuristic_Evaluation-10B981?style=flat-square&labelColor=0D1117)
+![Rapid Research](https://img.shields.io/badge/Rapid_Research-10B981?style=flat-square&labelColor=0D1117)
 
-**Synthesis & Quant**  
-![Affinity Mapping](https://img.shields.io/badge/Affinity_Mapping-F59E0B?style=flat-square&labelColor=0D1117)
-![Personas](https://img.shields.io/badge/Personas-F59E0B?style=flat-square&labelColor=0D1117)
-![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-F59E0B?style=flat-square&labelColor=0D1117)
+**Quantitative & Qualitative**  
 ![Survey Design](https://img.shields.io/badge/Survey_Design-F59E0B?style=flat-square&labelColor=0D1117)
+![Behavioral Analysis](https://img.shields.io/badge/Behavioral_Analysis-F59E0B?style=flat-square&labelColor=0D1117)
 ![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-F59E0B?style=flat-square&labelColor=0D1117)
+![Insight Synthesis](https://img.shields.io/badge/Insight_Synthesis-F59E0B?style=flat-square&labelColor=0D1117)
 
 **Tools**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117)
@@ -114,7 +153,7 @@ ROUND 1 SNAPSHOT
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&labelColor=0D1117)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white&labelColor=0D1117)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white&labelColor=0D1117)
-![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white&labelColor=0D1117)
+![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 
 <br/>
@@ -125,45 +164,42 @@ ROUND 1 SNAPSHOT
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>🔍</h3><b>Method follows<br/>the question</b><br/><sub>The lightest method that can answer it credibly</sub></td>
+<td align="center" width="25%"><h3>🔍</h3><b>Method follows<br/>the question</b><br/><sub>The lightest method that answers it credibly</sub></td>
 <td align="center" width="25%"><h3>🧾</h3><b>Rigor you<br/>can audit</b><br/><sub>Every finding traces back to its evidence</sub></td>
 <td align="center" width="25%"><h3>🤝</h3><b>Built with<br/>the team</b><br/><sub>Shared conviction turns insight into action</sub></td>
-<td align="center" width="25%"><h3>🚀</h3><b>Evidence,<br/>not opinions</b><br/><sub>Research that ships changes, not just decks</sub></td>
+<td align="center" width="25%"><h3>🚀</h3><b>Evidence,<br/>not opinions</b><br/><sub>Research that ships changes, not decks</sub></td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ─────────────────────────── JOURNEY ─────────────────────────── -->
+<!-- ─────────────────────────── EDUCATION ─────────────────────────── -->
 
-## &nbsp;🛤️&nbsp; The Path Here
+## &nbsp;🎓&nbsp; Education & Certifications
 
-```mermaid
-graph LR
-    A([Data Analyst]) --> B([UX Researcher])
-    B --> C([Program / Project<br/>Coordination])
-    C --> D([UX Research,<br/>end-to-end])
-    D --> E([Your team?])
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    style A fill:#1F2937,stroke:#4F86C6,stroke-width:2px,color:#fff
-    style B fill:#1F2937,stroke:#F59E0B,stroke-width:2px,color:#fff
-    style C fill:#1F2937,stroke:#10B981,stroke-width:2px,color:#fff
-    style D fill:#1F2937,stroke:#8B5CF6,stroke-width:2px,color:#fff
-    style E fill:#6366F1,stroke:#fff,stroke-width:2px,color:#fff
-```
+**🎓 Education**
 
-<br/>
+**B.Sc. Biotechnology**
+<br/>Sister Nivedita University, Kolkata
+<br/><sub>CGPA 7.27</sub>
 
-<!-- ─────────────────────────── EXPLORING ─────────────────────────── -->
+</td>
+<td width="50%" valign="top">
 
-## &nbsp;🔬&nbsp; Currently Exploring
+**📜 Certifications**
 
-```diff
-+ AI-augmented UX research — using LLMs for synthesis & analysis
-+ Mixed-methods frameworks that scale beyond a single study
-+ Research ops — democratizing insights across a team
-+ Behavioral science & decision-making in product design
-```
+- UI/UX Design — Coursera `in progress`
+- Data Analysis with Python — Coursera `in progress`
+- SQL — Coursera `in progress`
+- JavaScript — Namaste.dev
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -171,12 +207,11 @@ graph LR
 
 <div align="center">
 
-### &nbsp;📬&nbsp; Let's build research-led products together
+### &nbsp;📬&nbsp; Let's connect
 
 <a href="https://snehadebbarma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://linkedin.com/in/snehadebbarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:snehadebbarma2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/snehadebbarma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
 
@@ -187,4 +222,3 @@ graph LR
 <sub>🎨 Crafted with research rigour and a lot of sticky notes</sub>
 
 </div>
-
