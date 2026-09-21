@@ -1,49 +1,61 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,4F46E5,06B6D4&height=200&section=header&text=Sneha%20Deb%20Barma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Analyst%20%7C%20SQL%20%C2%B7%20Dashboards%20%C2%B7%20Product%20Metrics&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Sneha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://snehadebbarma.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehadebbarma)
-[![Email](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehadebbarma2@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Product+Analyst;SQL+%2B+Dashboards+%2B+Product+Metrics;Turning+messy+data+into+decisions" />
 
 </div>
 
-## About
+<br>
 
-Product Analyst with a background in research operations and product coordination. I work at the intersection of data and product decisions — turning raw usage and sales data into dashboards and findings that teams can act on.
+## 🧭 Currently
 
-Currently in UX research operations at **Ancile Digital**, deployed with **Uber**, working close to product and usage data.
+```
+📍  Bengaluru, India
+🔬  UX Research Ops @ Ancile Digital — deployed with Uber
+📊  Sharpening SQL, Tableau & product analytics
+🎯  Open to Product Analyst / Data Analyst roles
+```
 
-## Skills
+## 💭 How I think about data
 
-<div>
+> Numbers tell you *where* to look. I got here from research — so I care just as much about the *why* underneath them.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4F46E5?style=flat-square)
-![Product Analytics](https://img.shields.io/badge/Product%20Analytics-06B6D4?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8B5CF6?style=flat-square)
+I started in operations, moved into data analysis, and got hooked on the gap between "the metric moved" and "here's what to actually do about it." That's the work I want more of.
 
-</div>
-
-## Experience
-
-| Period | Role | Notes |
-|---|---|---|
-| 2025–Present | UX Research Ops @ **Ancile Digital**, deployed with **Uber** | Research close to product/usage data |
-| 2024 | Product Manager @ **VaultProp Tech** | |
-| 2022 | Data Analyst, Product Analytics @ **CareerCarve** | SQL, Tableau, automated weekly reporting |
-| 2022 | Operations Executive @ **AxisRooms** | |
-
-## Currently building
-
-Working through SQL (joins, window functions) and Tableau to deepen the analytical side of my product work.
-
-**Featured project:** [SalesDashboard](https://github.com/snehaDebBarma/SalesDashboard) — Excel-based sales analytics dashboard with trend, regional, and customer-level analysis.
+<br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehaDebBarma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=c9d1d9)
+![SQL](https://skillicons.dev/icons?i=postgres,py&theme=dark)
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+<br>
+
+## 🛠 Featured build
+
+**[SalesDashboard](https://github.com/snehaDebBarma/SalesDashboard)** — an Excel-based sales analytics dashboard: trend analysis, regional breakdowns, top-customer and delivery-performance views, built entirely with pivot tables and slicers.
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snehaDebBarma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=c9d1d9&ring_color=4F46E5" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=snehaDebBarma&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5" width="48%" />
+
+</div>
+
+<div align="center">
+
+**[Portfolio](https://snehadebbarma.vercel.app)** · **[LinkedIn](https://linkedin.com/in/snehadebbarma)** · **[Email](mailto:snehadebbarma2@gmail.com)**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0D1117&height=100&section=footer" />
 
 </div>
